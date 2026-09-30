@@ -6,11 +6,11 @@ let btnAnterior = document.getElementById("anterior");
 let Quadroimagem = document.getElementById("imagem");
 //Cria o album e guarda as fotos
 let album = [
-    "https://i.pinimg.com/736x/46/ea/66/46ea66882d1e6c0fa2c4dd1ee29d3afe.jpg",
-    "https://i.pinimg.com/736x/31/36/2f/31362f9d774666f4d706ba1472788e19.jpg",
-    "https://i.pinimg.com/736x/70/38/0d/70380dc69520c8dd97252691e5640f81.jpg",
-    "https://i.pinimg.com/736x/01/d6/7b/01d67b7656ebbb8a6dba0e7a21104a59.jpg",
-    "https://i.pinimg.com/736x/ad/28/18/ad28183c8a4466f8117f393c1ac22654.jpg",
+    "https://i.pinimg.com/736x/3b/fd/8c/3bfd8c606ae8ce83e99ffb6782dc56c7.jpg",
+    "https://i.pinimg.com/736x/d7/0e/53/d70e53f816b05eb8aa6b35751866f348.jpg",
+    "https://i.pinimg.com/1200x/46/ea/66/46ea66882d1e6c0fa2c4dd1ee29d3afe.jpg",
+    "https://i.pinimg.com/1200x/9a/f1/42/9af1428e4e4e423a8fc38d668943451d.jpg",
+    "https://i.pinimg.com/736x/f0/0f/57/f00f57b0f7b6bad878f7b7f61d35d25d.jpg",
 ]  
  
 //Quando o botão proximo for clicado executa a função mostrar proximo
